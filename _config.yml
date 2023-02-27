@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "안승섭 대머리 만들기"
+title                    : "깃헙 만들어보기"
 title_separator          : "|"
-subtitle                 : "안승섭 대머리 췌대로 가보자" #명언?
+subtitle                 : "꾸준히 해볼까/" #명언?
 name                     : "이현준"
 description              : "An amazing website."
 url                      : "https://HyunJunLEE-Hub.github.io"
@@ -111,7 +111,7 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "cocacola@ds.seoultech.ac.kr"
+      icon: "mailto:cocacola@ds.seoultech.ac.kr"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
