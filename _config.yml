@@ -104,14 +104,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이현준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "여기는 biobio."
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "cocacola@ds.seoultech.ac.kr"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "https://github.com/HyunJunLEE-Hub"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
