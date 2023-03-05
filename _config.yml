@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
-title                    : "깃헙 만들어보기"
+locale                   : "ko-KR" # 한국시간으로 바꾸기
+title                    : "돼방어의 기록 Blog"
 title_separator          : "|"
-subtitle                 : "꾸준히 해볼까/" #명언?
-name                     : "이현준"
-description              : "An amazing website."
+subtitle                 : '성공을 하려면 남을 떠밀지 말고, 제 힘을 측량해서 무리하지 말고 제 뜻한 일에 한 눈 팔지 말고 묵묵히 나가야 한다. 평범한 방법이지만 이것이 성공을 가져다주는 것이다. -Franklin Benjamin' #명언같은거 만들기
+name                     : "돼방어"
+description              : "멍청하니까 꾸준하게 기록"
 url                      : "https://HyunJunLEE-Hub.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "이현준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "여기는 biobio."
+  bio              : "AI Engineer."
   location         : "Seoul, Korea"
-  email            :
+  email            : 
   links:
     - label: "Email"
-      icon: "mailto:cocacola@ds.seoultech.ac.kr"
-      # url: "mailto:your.name@email.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cocacola@ds.seoultech.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,8 +123,8 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "https://github.com/HyunJunLEE-Hub"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/HyunJunLEE-Hub"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
