@@ -1,10 +1,10 @@
 ---
 
-title: "Posts by Tag"
+title: "Posts by Category"
 
-permalink: /tags/
+layout: categories
 
-layout: tags
+permalink: /categories/
 
 author_profile: true
 
